@@ -1,0 +1,349 @@
+exit
+pwd
+ssh-keygen --help
+ssh-keygen -t ed25519
+ssh
+ls -la .ssh/
+ssh-keygen
+ssh-keygen -t ed25519
+ls -l .ssh/
+ls -la .ssh/
+cat .ssh/id_ed25519.pub 
+ls -l
+cd repogit/
+ls -l
+git clone git@github.com:FedeBar2024/Tp_AySO.git
+ls -l
+cd Tp_AySO/
+ls -l
+git status
+touch archivo
+ls -l
+git status
+git add .
+git status 
+git commit -m "add: primer commit"
+federicobarreto2013@gmail.com
+git config --global user.email "federicobarreto2013@gmail.com"
+git commit -m "add: primer commit"
+git status
+git push
+git status
+ls -l
+echo hola
+echo hola > unarchivo
+ls -l
+cat unarchivo 
+ls -l
+ls -l >unarchivo 
+cat unarchivo 
+#echo hola > unarchivo
+#echo hola >> unarchivo
+cat unarchivo 
+#echo hola
+echo hola >>unarchivo 
+cat unarchivo 
+git status 
+git add .
+git status
+rm unarchivo 
+git rm unarchivo 
+git status
+exit
+ls
+cd repogit/
+s
+ls
+Tp_AySO/
+ls
+cd Tp_AySO/
+ls
+ls {l
+ls -l
+cat /etc/os-release
+man grep
+grep -i HOME_URL /etc/os-release 
+grep home_url /etc/os-release 
+grep HOME_URL /etc/os-release 
+whoami
+grep grep "model name"
+grep "model name" /proc/cpuinfo 
+ls
+cat datos_usuario.txt 
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt 
+cat datos_usuario.txt 
+git status
+git add
+git add .
+git status
+git add datos_usuario.txt 
+git commit -m "feat: Añadiendo informacion de CPU"
+cat datos_usuario.txt 
+exit
+ls
+cd repogit/
+ls
+cd T
+cd Tp_AySO/
+ls
+git status
+ls
+cat datos_usuario.txt 
+exit
+git status
+ls
+cd repogit/
+ls
+cd Tp_AySO/
+ls
+git status
+ls -l
+ls -l datos_usuario.txt 
+cat datos_usuario.txt 
+git log -p -1
+git push
+git staus
+git status 
+exit
+ls
+ls -l
+cd repogit/
+ls
+cd Tp_AySO/
+ls
+grep -v "nologin" /etc/passwd
+grep -v "nologin" /etc/passwd | head -n 10
+grep -v "nologin" /etc/passwd | head -n 10 | sort -t -k7
+grep -v "nologin" /etc/passwd | head -n 10 | sort -t -k7 > lista_ordenada
+cat lista_ordenada 
+git status
+ls -l
+ls -l lista_ordenada 
+grep -v "nologin" /etc/passwd
+grep -v "nologin" /etc/passwd | head -n 10
+grep -v "nologin" /etc/passwd | head -n 10 | sort -t: -k7 > lista_ordenada
+cat lista_ordenada
+git status 
+git add lista_ordenada 
+git commit -m "ADD: Listado de usuarios ordenada"
+git status
+man man
+mas -k
+man -k
+man man
+man -K
+man man
+man -k
+man -K
+man -k dump | grep network
+man -k tcdump
+man -k tcpdump
+sudo apt install tcpdump 
+tcpdump --help
+man -k tcpdump
+mandb
+tcpdump --help
+man -k network
+sudo man -k network
+wireshark
+man -k capture
+tshark -h
+tcpdump -h
+man -k
+man -k capture
+man -k tcpdump 
+man tcpdump 
+man -k traffic
+echo "tcpdump" > comando_dump_net
+echo "man tcpdump" >> comando_dump_net 
+exit
+git push
+ls
+repogit/
+ls
+cd repogit/
+ls
+cd Tp_AySO/
+git status
+git add .
+git status
+git push 
+git status
+exit
+ls
+cd repogit/
+ls
+T
+cd Tp_AySO/
+ls
+cd
+ls
+cd repogit/
+ls
+cd Tp_AySO/
+ls
+cat <<EOF >> READMEN.md
+
+
+
+
+xit
+q
+
+git status
+git push
+git status
+git add .
+git push
+git status
+exit
+cat <<EOF >> README.md
+Alumno: Federico Barreto
+Division: 3B
+Turno: Mañana
+EOF
+
+git status
+ls
+cd repogit/
+ls
+cd Tp_AySO/
+git status
+cat <<EOF >> README.md
+Alumno: Federico Barreto
+Division: 308
+
+cat <<EOF >> README.md
+Alumno: Federico Barreto
+Division: 318
+Turno: noche
+EOF
+
+git status
+git add comando_dump_net 
+git add man\ -k 
+git add README.md 
+git commit -m "Añade informacion de alumno y division al README.md"
+git push
+exit
+git checkout -b backup-branch
+cd repogit/
+cd Tp_AySO/
+git checkout -b backup-branch
+git reset HEAD~1
+git add -p
+git status
+git checkout -b backup-branch
+git add -p
+git reset HEAD~1
+git rebase -i HEAD~n
+git rebase -i HEAD~2
+git rebase -i HEAD~n
+git rebase -i HEAD~2
+git log --oneline
+git status
+git add lista_ordenada 
+git commit -m "ADD: Listado de usuarios ordenada"
+git status
+git add comando_dump_net 
+git commit -m "ADD: Comando para Capturar y analizar el trafico de red"
+git status
+git push
+git push origin backup-branch 
+git git status
+git sta
+git status 
+git log
+exit
+ls
+cd repogit/
+cd Tp_AySO/
+git log
+[200~git add comando_dump_net
+git add comando_dump_net
+git commit --amend
+git push origin backup-branch --force
+git log
+git status
+git log
+git show --name-only
+git status
+git push origin backup-branch 
+exit
+git rebase -i HEAD~n
+git rebase -i HEAD~2
+cd repogit/
+cd Tp_AySO/
+git rebase -i HEAD~n
+git rebase -i HEAD~2
+git rebase -i HEAD~3
+git rebase -i HEAD~1
+git rebase -i HEAD~0
+git log
+git log --oneline
+cd /ruta/al/tu/repositorio
+exit
+git log
+log git
+git status
+ls
+cd repogit/
+cd Tp_AySO/
+git log
+git reset --soft HEAD~1
+git log
+git status
+git diff README.md
+rm comando_dump_net
+git rm --cached comando_dump_net
+git status
+rm "man -k"
+rm -r "man -k"
+git status 
+git add README.md
+git push
+git push origin backup-branch 
+git log
+git status
+git rm --cached comando_dump_net
+rm comando_dump_net
+git rm --cached comando_dump_net
+exit
+cd repogit/
+cd Tp_AySO/
+ls -la
+git status
+cat README.md 
+git commit -m "docs: Agregar información del alumno al README.md"
+git push origin backup-branch
+git status
+git log
+cat README.md 
+echo "tcpdump" > comando_dump_net
+echo "Buscar comando: man tcpdump" >> comando_dump_net
+cat comando_dump_net
+man tcpdump 
+cat comando_dump_net
+git add comando_dump_net
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+git push origin backup-branch
+git pull origin backup-branch
+git pull origin backup-branch --no-rebase
+git pull origin backup-branch --rebase
+git push origin backup-branch
+git status
+git pull origin backup-branch --rebase
+cat comando_dump_net 
+nano comando_dump_net
+git add comando_dump_net
+git commit -m ADD: Comando para Capturar y analizar el tráfico de red
+git status
+git push origin backup-branch 
+git pull --rebase origin backup-branch
+git status
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+git push origin backup-branch
+git status
+ls
+cat comando_dump_net 
+history -a
